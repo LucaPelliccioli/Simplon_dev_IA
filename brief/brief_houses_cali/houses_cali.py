@@ -9,5 +9,3 @@ from sklearn.metrics import mean_absolute_error
 
 houses_data = pd.read_csv("../../brief_agile_houses_cali/housing.csv")
 houses_data
-
-
